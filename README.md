@@ -38,23 +38,28 @@ to three operational questions:
 ## Key Findings
 
 **1. Revenue is growing fast — and accelerating**
+
 The business nearly doubled its monthly revenue in just six months. January brought in $81,678. By June, that number was $166,486.
 What's interesting isn't just the growth — it's that the acceleration started in March and didn't slow down. Something shifted in spring and the business rode it all the way through June.
 
 **2. The morning rush is everything**
+
 Walk into any of these stores between 8 AM and 10 AM, and you'll understand the business. That three-hour window drives a disproportionate share of daily transactions. Then at 11 AM — almost exactly — it falls off a cliff. Transactions drop 47% in a single hour. 
 If I were advising a store manager, I'd say: stack your best staff before 10 AM and scale back sharply after.
 
 **3. It doesn't really matter what day it is**
+
 I expected weekdays to significantly outperform weekends. They don't. The busiest day and the slowest day are less than 5% apart in revenue. 
 This isn't a business with a weekend problem. It has a time-of-day problem. That changes how you think about scheduling entirely.
 
 **4. Two products are carrying the whole menu**
+
 Coffee and Tea together account for 67% of total revenue. Everything else — eight other categories — splits the remaining 33%. 
 The bottom four categories combined? Just 5% of revenue.
 That raises an honest question: is a complex menu helping this business, or just making it harder to run?
 
 **5. Lower Manhattan surprised me — in a good way**
+
 Going in, I expected Lower Manhattan to be one of the busiest locations. It's last in revenue. 
 But here's what the data actually showed: Lower Manhattan customers spend more per visit than any other location — $4.81 on average vs $4.59 in Astoria.
 The store isn't underperforming because of pricing or product. It's underperforming because fewer people are walking through the door. That's a completely different problem — and a much more solvable one.
